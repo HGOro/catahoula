@@ -1,5 +1,5 @@
-# catahoula
-a simple page about the catahoula (html and css)
+# Xoloitzcuintli
+a simple page about the Xoloitzcuintli (html and css)
 
 
 # Activity 6 - GitHub Pages Project Webpage
