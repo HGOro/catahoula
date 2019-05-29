@@ -1,3 +1,98 @@
-#tableImage {
-    
+body{
+    background: rgb(245, 245, 231);
+    background-image: url("./assets/images/azteclimestone.jpg");
+    background-size: 100%;
+}
+
+#mainTitle{
+    font-family: 'Bungee', cursive;
+    font-size: 60px;
+    color:white;
+    background: black;
+    line-height: 75px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+}
+
+#secondTitle{
+    font-family: 'Bangers', cursive;
+    font-size: 30px;
+    line-height: 75px;
+    text-align: center;
+    border: solid black;
+    width: 100%;
+}
+
+
+h3{
+    font-family: 'Bungee', cursive;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+ul{
+    font-family: 'Jockey One', cursive;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+li{
+    font-size: 20px;
+    line-height: 25px;
+}
+
+table{
+    width: 100%;
+}
+
+th {
+    font-size: 25px;
+    padding: 5px;
+    font-family: Bungee, cursive;
+    line-height: 30px;
+}
+
+#green{
+    background: green;
+    color: white;
+}
+
+#white{
+    background: white;
+}
+
+#red{
+    background: red;
+    color: white;
+}
+
+tr, 
+td {
+    padding: 10px;
+}
+
+td{
+    font-family: 'Jockey One', cursive;
+    font-size: 20px;
+}
+
+.tableImage {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: auto;
+}
+
+#colorfulBG1{
+    background-image: url("./assets/images/greenAztec.jpg")
+}
+
+#colorfulBG2{
+    background-image: url("./assets/images/tribalBandW.jpg")
+}
+
+#colorfulBG3{
+    background-image: url("./assets/images/colorfulBackground.jpg")
 }
